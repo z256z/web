@@ -1,7 +1,19 @@
 body {
-    background-color: #40434a;
+    background-color: #0d0d0f;
+}
+
+p {
+    color: white;
 }
 
 h1 {
-    color: red;
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
 }
